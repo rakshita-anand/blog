@@ -1,0 +1,17 @@
+baseURL = "https://rakshita-anand.github.io"
+languageCode = "en-us"
+title = "Rakshita Anand Srivastava"
+theme = "hugo-theme-dream"
+
+[params]
+  background = '#282828'
+  author = 'Rakshita'
+  motto = 'live and let live'
+  email = 'rakshitanand1996@gmail.com'
+
+  linkColor = "seagreen"
+  siteStartYear = 2020
+
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404 = true
